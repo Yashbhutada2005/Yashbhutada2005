@@ -1,5 +1,9 @@
 # 💫 About Me:
-I’m Yash Bhutada, a 3rd-year B.Tech Computer Science student at Raisoni College, Pune.<br>Currently focused on Data Structures & Algorithms (DSA) in Java, while also exploring C, Python, HTML, CSS, JavaScript, and SQL.<br>Passionate about problem-solving, clean coding, and building a strong foundation in both programming and web development.<br>
+🚀 I’m **Yash Bhutada**, a 3rd-year B.Tech Computer Science student at **Raisoni College, Pune**.  
+🔍 Currently diving deep into **Data Structures & Algorithms (DSA)** with Java.  
+🌐 Exploring the world of **C, Python, HTML, CSS, JavaScript, and SQL** to sharpen my full-stack skills.  
+💡 Passionate about **problem-solving, clean coding, and building scalable solutions**.  
+🎯 My goal: to craft code that’s not just functional, but elegant and exam-ready.  
 
 
 # 💻 Tech Stack:
